@@ -1,4 +1,4 @@
-# Algorithm Trading using Unsupervised Machine Learning 
+# Algo Trading using Unsupervised Machine Learning 
 
 This project involves developing an algorithmic trading strategy that leverages unsupervised learning techniques to select and optimize a portfolio of S&P 500 stocks. The strategy employs K-Means clustering to group stocks based on their features and technical indicators and uses portfolio optimization techniques to construct a high-performing portfolio. The effectiveness of the strategy is evaluated by comparing the portfolio's returns against the S&P 500 benchmark
 
